@@ -1,5 +1,3 @@
-// server.js
-
 const express        = require('express');
 
 const User= require('./create_mongo')
